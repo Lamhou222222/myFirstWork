@@ -5,3 +5,4 @@ tecnica del proyecto lingo
 -acceso en red local con "lingo.local"
 -ahlali ah lelas
 -control de versiones con git
+lalalalalalal
