@@ -5,3 +5,4 @@ tecnica del proyecto lingo
 -acceso en red local con "lingo.local"
 -ana mazawg fik din noshof lmaghrib
 -control de versiones con git
+lalala
