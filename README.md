@@ -6,3 +6,4 @@ tecnica del proyecto lingo
 -ana mazawg fik din noshof lmaghrib
 -control de versiones con git
 lalala
+fudivok
